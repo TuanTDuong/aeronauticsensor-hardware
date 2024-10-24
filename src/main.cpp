@@ -8,7 +8,7 @@
 #include "RF24.h"
 // #include <ModbusMaster.h>
 //=============================================================================
-#define DEBUG
+#define DEBUG 1
 #define TIME_INTERVAL 2000
 #define ZH03B_RX 5
 #define ZH03B_TX 4
